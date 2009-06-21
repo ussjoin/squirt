@@ -1,0 +1,7 @@
+= squirt
+
+A Point-to-Point AtomPub-based Messaging System. 
+
+== Copyright
+
+Copyright (c) 2009 Brendan O'Connor, Nick Howard. See LICENSE for details.
